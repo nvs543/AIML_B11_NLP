@@ -14,3 +14,6 @@
 - https://ieeexplore.ieee.org/abstract/document/8260658
 - https://paperswithcode.com/task/document-classification
 
+
+### Reading Material:
+- https://www.kaggle.com/code/arunrk7/nlp-beginner-text-classification-using-lstm#Model-Training---LSTM
