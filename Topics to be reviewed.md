@@ -18,4 +18,4 @@
 ### Reading Material:
 - https://www.kaggle.com/code/arunrk7/nlp-beginner-text-classification-using-lstm#Model-Training---LSTM
 - BERT Eamil classification: https://www.youtube.com/watch?v=hOCDJyZ6quA
-- 
+- BERT Multi Class Classfication Ex: https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613
