@@ -20,3 +20,6 @@
 - BERT Eamil classification: https://www.youtube.com/watch?v=hOCDJyZ6quA
 - BERT Multi Class Classfication Ex: https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613
 - EMAIL Classification - https://towardsdatascience.com/how-i-used-machine-learning-to-classify-emails-and-turn-them-into-insights-efed37c1e66
+- 2B example:
+  - https://www.kaggle.com/code/ankur561999/enron-email-classification-using-machine-learning/notebook
+  - https://www.kaggle.com/code/ankur561999/data-cleaning-enron-email-dataset/notebook
